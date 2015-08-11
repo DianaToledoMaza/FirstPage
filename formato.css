@@ -1,0 +1,9 @@
+html,body{
+	height: 100%;
+	font-family: Helvetica;
+}
+header{
+	background:url(imgs/background.jpg);
+	height: 100%;
+	padding-top:1px;
+}
