@@ -1,9 +1,85 @@
 html,body{
 	height: 100%;
-	font-family: Helvetica;
+	font-family: Arial;
+	background:url(v.jpg);
+	
+
 }
+
 header{
-	background:url(imgs/background.jpg);
+	
 	height: 100%;
 	padding-top:1px;
 }
+
+.text-center{
+	text-align: center;
+}
+
+.tam-letter{
+	font-size:6em;
+}
+
+.tam-letter2{
+	font-size:4.5em;
+}
+
+
+.mitad{
+	width: 50%;
+}
+
+.tam-name{
+	width: 25%;
+}
+.inline-block{
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.more-margin{
+	margin-bottom: 200px;
+}
+
+.margen{
+	width: 80%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.margen2{
+	width: 100%;
+	margin-right:auto;
+	margin-left:auto;
+}
+.big-top-space{
+	margin-top: 150px;
+}
+
+
+
+.inline{
+	display: inline;
+}
+
+.rojo{
+	background-color: rgb(250,0,0);
+}
+
+.fondo{
+	background:url(w.jpg);
+}
+
+.centro{
+	text-align: center;
+}
+
+.derecha{
+	text-align: right;
+}
+
+.izquierda{
+	text-align: left;
+}
+
+
