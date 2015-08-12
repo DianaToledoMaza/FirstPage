@@ -12,9 +12,6 @@ header{
 	padding-top:1px;
 }
 
-.text-center{
-	text-align: center;
-}
 
 .tam-letter{
 	font-size:6em;
@@ -24,17 +21,33 @@ header{
 	font-size:4.5em;
 }
 
+.text-center{
+	text-align: center;
+}
+
+.derecha{
+	text-align: right;
+}
+
+.izquierda{
+	text-align: left;
+}
+
 
 .mitad{
-	width: 50%;
+	width: 33%;
 }
 
 .tam-name{
-	width: 25%;
+	width: 33%;
 }
 .inline-block{
 	display: inline-block;
 	margin-right: -4px;
+}
+
+.inline{
+	display: inline;
 }
 
 .more-margin{
@@ -58,10 +71,10 @@ header{
 
 
 
-.inline{
-	display: inline;
-}
 
+.blue{
+	background-color: rgb(50,50,200);
+}
 .rojo{
 	background-color: rgb(250,0,0);
 }
@@ -70,16 +83,16 @@ header{
 	background:url(w.jpg);
 }
 
-.centro{
-	text-align: center;
+.fondo2{
+	background:rgba(67,181,227,0.4);
+
 }
 
-.derecha{
-	text-align: right;
-}
 
-.izquierda{
-	text-align: left;
+
+.format-free{
+	display: -webkit-flex;
+	display: flex;
 }
 
 
