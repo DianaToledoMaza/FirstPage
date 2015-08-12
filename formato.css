@@ -12,6 +12,11 @@ header{
 	padding-top:1px;
 }
 
+.fondo2{
+	background:rgba(67,181,227,0.4);
+
+}
+
 
 .tam-letter{
 	font-size:6em;
@@ -69,8 +74,10 @@ header{
 	margin-top: 150px;
 }
 
-
-
+.format-free{
+	display: -webkit-flex;
+	display: flex;
+}
 
 .blue{
 	background-color: rgb(50,50,200);
@@ -83,16 +90,22 @@ header{
 	background:url(w.jpg);
 }
 
-.fondo2{
-	background:rgba(67,181,227,0.4);
+.fuente{
+	font-family: 'Roboto Condensed', sans-serif;
+}
 
+.fuente1{
+	font-family: 'Varela', sans-serif;
+}
+
+.fuente2{
+
+	font-family: 'Quattrocento Sans', sans-serif;
 }
 
 
 
-.format-free{
-	display: -webkit-flex;
-	display: flex;
-}
+
+
 
 
